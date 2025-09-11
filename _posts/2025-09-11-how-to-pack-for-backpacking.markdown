@@ -8,3 +8,4 @@ categories: travel
 What you need to pack for a backpacking trip?
 
 toothbrush.
+toothpaste.
