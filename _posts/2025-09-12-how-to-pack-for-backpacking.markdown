@@ -7,28 +7,25 @@ categories: travel
 
 Ready to embark on a travel backpacking trip but not sure what to bring? Preparing for an adventure can be overwhelming and packing is no exception. Here’s a complete guide to help you pack everything you need for your travels.
 
-![items to pack](/assets/images/items-to-pack.png)
+<p style="text-align:center"><img src="/assets/images/items-to-pack.png" width=600/></p>
 <p style="text-align:right"><sub><sup>generated from chatGPT</sup></sub></p>
 
-# Common Mistakes
+* Table of Contents
+{:toc} 
 
-**Packing too much.** You don't need to bring everything. Most situational items you can buy during your travel such as medication, extra clothes, 
+## What Type of Backpack to Pick?
 
-**Budget airline limits**. Budget airlines usually have a weight limit of 7-10 kg and a size limit of 56 x 36 x 23 cm for carry-on items. Check your airline and pack accordingly.
+There's so many bags to choose from and each has their own use-case. I will compare 4 popular options that you might choose to use on your journey.
 
-**Liquids over 100mL** are not allowed onto flights. 
+`Budget airlines usually have a weight limit of 7-10 kg and a size limit of 56 x 36 x 23 cm for carry-on items. Check your airline and pack accordingly.`
 
-## The Backpack
+<p style="text-align:center"><img src="/assets/images/different-backpacks.png" width=600/></p>
+<p style="text-align:right"><sub><sup>generated from chatGPT</sup></sub></p>
 
-There are 4 popular options for which bag to choose each with their own use-case.
-
-**The duffel bag** is one of the lightest and cheapest options for a pack.
+**A duffel bag** is one of the lightest and cheapest options for a pack. Easy for shorter trips and light packers.
 
 <p style="text-align:center"><img src="/assets/images/duffle-bag.png" width=400/></p>
 <p style="text-align:right"><sub><sup>Sports Bag 35L from Decathlon</sup></sub></p>
-
-*can be purchased at a price of $15.00*
-
 
 Best for:
 - carrying under 35L
@@ -38,16 +35,14 @@ Best for:
 
 Note that:
 - can be uncomfortable to carry
-- some are a duffel/travel pack hybrid which offer more comfort
+- some are a duffel/travel pack hybrid which can offer more comfort
 
-<br/>
-
-**The travel backpack** is designed for travel. A lot of them will feature added comfort, a laptop compartment, and a open-shell design for easy access to items.
+**A travel backpack** is designed for the specific purpose of travelling. A lot of them will feature added comfort, a laptop compartment, and a open-shell design for easy access to items.
 
 <p style="text-align:center"><img src="/assets/images/travel-bag.png" width=400/></p>
 <p style="text-align:right"><sub><sup>GlobeRider45 from Matador</sup></sub></p>
 
-*The GlobeRider45 from Matador weighs in at just over 2 kg.*
+<!-- *The GlobeRider45 from Matador weighs in at just over 2 kg.* -->
 
 Best for:
 - carry around 40 to 45L
@@ -57,10 +52,9 @@ Best for:
 
 Note that:
 - can be a lot heavier and hard to keep under 7 kg.
+- can be not enough space for heavy packers.
 
-<br/>
-
-**The hiking backpack** is perfect for carrying comfort and long duration trips. Offers plenty of space for buying souvenirs, more clothes, and luxury accessories such as hair straightener, portable drip coffee, etc.
+**A hiking backpack** is perfect for carrying comfort and long duration trips. Offers plenty of space for buying souvenirs, more clothes, and luxury accessories such as hair straightener, portable drip coffee, etc.
 
 <p style="text-align:center"><img src="/assets/images/hiking-bag.png" width=400/></p>
 <p style="text-align:right"><sub><sup>Atmos AG 65 from Osprey</sup></sub></p>
@@ -68,13 +62,12 @@ Note that:
 Best for:
 - carrying around 50 to 65L
 - 8 to 12 outfits
+- can use for a backcountry hiking bag too
 - travel duration over 6 months
 
 Note that:
 - needs to be check during flight as they are over the carry-on limit
 - access to items can be difficult if tightly packed.
-
-<br/>
 
 **Carry-on Suitcase** is back to the basics. Some backpackers will disagree, but this is a completely viable option and it just works.
 
@@ -91,88 +84,125 @@ Note that:
 - hard to move on rough surfaces or navigate crowded streets
 - can be inconvenient to open in a small hotel or hostel where space is limited
 
+## Need More Than the Main Backpack?
 
-## Hygiene
-
-A toiletry bag can organize and store all your hygiene items in one place. A ziplock bag works too. Most hotels/hostels will provide shampoo, body wash, and a towel so these items can be omitted from your pack if you prefer.
-
-<p style="text-align:center"><img src="/assets/images/dopp-kit-1.png" width=300/><img src="/assets/images/dopp-kit-2.png" width=300/></p>
-<p style="text-align:right"><sub><sup>Dopp Kit from Aer</sup></sub></p>
-
-Here's a list of toiletry items I bring:
-
-- toothbrush
-- toothpaste
-- floss
-- contact lenses
-- contact solution
-- razor
-- shaving cream
-- deorderant/perfume
-
-(optional)
-- shampoo
-- conditioner
-- body wash
-- hand cream
-- lip balm
-- face wash
-
-## Outfits
-
-You can always buy clothes when you're away. Even in expensive cities, clothing prices at Uniqlo are comparable. Take note of the weather and season. A lot of destinations have a wide selection of vintage or thrifting experiences.
-
-- daily outfit 6x
-- lounge wear 1x
-- active wear 1x
-- sweater or jacket 1x
-
-For long haul trips, I like to carry 8 outfits. 6 daily fits, 1 active fit, and 1 lounge wear. This allows laundry to be done once a week. On days you don't sweat a lot, then it can be fine to wear the same clothes across 2 days which can give you 2 weeks before laundry is needed. During laundry days, I'm either in my lounge wear or active wear so I can renew all my daily outfits during the wash. Of course, the lounge wear needs to be washed as well, hence wearing the active wear when the lounge wear is being washed.
-
-## Essentials
-
-A phone to access the internet and a bank card or credit card to withdraw from the ATM.
-
-- phone
-- phone charger
-- passport
-- sunscreen
-- credit card & bank card
-
-## Accessories & Entertainment
-
-Plugs for different countries are different so you might need an outlet converter. All of these you can buy while you're in another country. Remember to wear sunscreen when you're out especially midday when the UV levels are high.
-
-- outlet converter
-- book
-- earphones
-- playing cards
-- sunglasses
-- glasses case
-- umbrella
-- slippers
-- towel
-
-(optional)
-- laptop
-- portable charger
-
-## Day pack
-
-A 20L daypack is useful when you want to go to the beach or go on a 2 to 3 days trip while leaving your main backpack behind with the hotel or luggage check. A simple lightweight backpack will do the trick. A dry bag is a nice option if a lot of day trips may involve getting wet while hiking or on a boat.
+**A day pack** is useful when you want to go to the beach or go on a 2 to 3 days trip while leaving your main backpack behind with the hotel/hostel or luggage check. A lightweight foldable one can be collapsed into the main bag when carrying less stuff. Around 20L is a good size. A dry bag is a nice option if a lot of day trips may involve getting wet while hiking or on a boat.
 
 <p style="text-align:center"><img src="/assets/images/ocean-pack-20.png" width=400/></p>
 <p style="text-align:right"><sub><sup>Ocean Pack 20 Dry Bag</sup></sub></p>
 
-## Medication
+**Front packing** is a option to bring even more items to your travels on top of your existing bag. Especially if you know you will be checking your main bag during flights, this one can be your carry-on bag and double as your day pack. Paired with a hiking backpack, you can pack up to 85L of stuff.
 
-These can be all bought at a pharmacy.
+<p style="text-align:center"><img src="/assets/images/front-backpack.png" width=400/></p>
+<p style="text-align:right"><sub><sup>Farpoint 40 with a Daypack from Osprey</sup></sub></p>
 
-- Sea sick medicine
-- Digestion/lactose medicine
-- Anti-itch cream
-- Pain killer medicine
+## How to Organize Hygiene Items?
 
+**A toiletry bag** can organize and store all your hygiene items in one place. In the most simplest form, a ziplock bag works too. Most hotels/hostels will provide shampoo, body wash, and a towel so these items can be omitted from your bag if you prefer.
+
+<p style="text-align:center"><img src="/assets/images/dopp-kit-1.png" width=300/><img src="/assets/images/dopp-kit-2.png" width=300/></p>
+<p style="text-align:right"><sub><sup>Dopp Kit from Aer</sup></sub></p>
+
+*A list of toiletry items I bring:*
+
+> toothbrush, toothpaste, floss, contact lenses, contact solution, razor, shaving cream, deorderant/perfume, nail clipper
+
+*Optional items include:*
+
+> shampoo, conditioner, body wash, face wash, hand cream, lip balm, comb, makeup
+
+Toiletry and beauty items add up very easily. What seems like only a few bottles will quickly become 10+ if you want to have everything with you. Try to bring only what is necessary, and don't be afraid to buy missing items while on the road.
+
+`Liquids over 100 mL are not allowed onto any flights.`
+
+## Bring Clothes or Buy Clothes
+
+You can always buy clothes when you're away so it is advisable to start light. Even in expensive cities, clothing prices at Uniqlo are comparable everywhere in the world.
+
+<p style="text-align:center"><img src="/assets/images/uniqlo-store.png" width=500/></p>
+<p style="text-align:right"><sub><sup>Uniqlo from Linkedin</sup></sub></p>
+
+**Thrifting and vintage shopping** is available in a lot of destinations which you can take advantage of by packing less to being with.
+
+<p style="text-align:center"><img src="/assets/images/vintage-shopping.png" width=500/></p>
+<p style="text-align:right"><sub><sup>Vintage Thrift West from Manhattan Sideways</sup></sub></p>
+
+**Local attire** is another option such as elephant pants in Thailand. 
+
+<p style="text-align:center"><img src="/assets/images/elephant-pants.png" width=400/></p>
+<p style="text-align:right"><sub><sup>Elephant Pants from Bigger Men Clothing Shopee</sup></sub></p>
+
+**Cold weather** clothing can be tricky because they will just be extra weight when the weather gets warm again. In a lot of situations, a hoodie or sweater will be enough. Long underwear and heat tech will also provide warmth without taking up too much space. Consider layering a fleece, puffy jacket, or shell jacket if extra warmth is needed.
+
+<p style="text-align:center"><img src="/assets/images/uniqlo-hoodie.png" width=200/><img src="/assets/images/uniqlo-fleece.png" width=200/><img src="/assets/images/uniqlo-parka.png" width=200/></p>
+<p style="text-align:right"><sub><sup>Hoodie, Fleece, Parka from Uniqlo</sup></sub></p>
+
+Cold weather clothing are often more expensive so preparing ahead will avoid the extra cost of buying on the spot.
+
+`Avoid packing too much clothes then needing to carry the extra weight for the entire trip.`
+
+## How to Organize my Clothes?
+
+**Packing cubes** are a good way to keep your clothes organized. A set of 3 can be divided into under garments, top wear, and bottom wear.
+
+<p style="text-align:center"><img src="/assets/images/packing-cube-1.png" width=300/><img src="/assets/images/packing-cube-2.png" width=300/></p>
+<p style="text-align:right"><sub><sup>Travel Packing Cubes from Decathlon</sup></sub></p>
+
+**A Laundry mesh bag** to keep dirty clothes separated from clean clothes. Simple solution to carry around clothes during laundry day.
+
+<p style="text-align:center"><img src="/assets/images/laundry-net-bag.png" width=300/></p>
+<p style="text-align:right"><sub><sup>Laundry Bag from Decathlon</sup></sub></p>
+
+## How Much Clothes Should I Carry?
+
+For long haul trips, I like to bring a total of 8 outfits.
+
+> 6 daily fits, 1 active fit, 1 lounge wear, 1 pair of shoes
+
+This allows laundry to be done approximately once a week. 
+
+<p style="text-align:center"><img src="/assets/images/items-to-pack.png" width=600/></p>
+<p style="text-align:right"><sub><sup>generated from chatGPT</sup></sub></p>
+
+Perhaps controversial, if you don't sweat a lot, it can be fine to wear the same clothes across 2 days which can extend your laundry needs to every 2 weeks.
+
+`Laundry sucks.`
+
+## Essentials, Phone, and Money
+
+**Passport** to enter another country.
+
+**Sunscreen** to protect from ultraviolet. Remember to wear sunscreen when you're out especially midday when the UV levels are high.
+
+**Glasses** with a case or 20/20 vision.
+
+**A phone** to access the internet and nagivate. Don't forget the charger.
+
+**Cellular data** can often be bought locally at a cheaper price than roaming plans or travel eSIMs. 
+
+**Credit card & bank card** to retrieve money from the ATM and pay.
+
+**Medication** can be bought at a pharmacy as needed.
+
+> pain killer, motion sickness, melatonin, digestion/lactose, anti-itch cream
+
+## Accessories and Entertainment
+
+**Outlet converter** for different countries with different outlets.
+
+**Rainy days** calls for a poncho or an umbrella.
+
+**Beach days** slippers, towels, sunglasses.
+
+**Earphones** for music
+
+**Entertainment** options
+
+> book, playing cards
+
+**carabiner** 
+
+**portable charger**
 
 **Simple as that!** That's everything you need for a backpacking trip. 
 
