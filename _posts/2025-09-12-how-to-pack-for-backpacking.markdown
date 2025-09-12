@@ -42,8 +42,6 @@ Note that:
 <p style="text-align:center"><img src="/assets/images/travel-bag.png" width=400/></p>
 <p style="text-align:right"><sub><sup>GlobeRider45 from Matador</sup></sub></p>
 
-<!-- *The GlobeRider45 from Matador weighs in at just over 2 kg.* -->
-
 Best for:
 - carry around 40 to 45L
 - 5 to 7 outfits
@@ -84,7 +82,7 @@ Note that:
 - hard to move on rough surfaces or navigate crowded streets
 - can be inconvenient to open in a small hotel or hostel where space is limited
 
-## Need More Than the Main Backpack?
+## More Than the Main Backpack
 
 **A day pack** is useful when you want to go to the beach or go on a 2 to 3 days trip while leaving your main backpack behind with the hotel/hostel or luggage check. A lightweight foldable one can be collapsed into the main bag when carrying less stuff. Around 20L is a good size. A dry bag is a nice option if a lot of day trips may involve getting wet while hiking or on a boat.
 
@@ -95,6 +93,11 @@ Note that:
 
 <p style="text-align:center"><img src="/assets/images/front-backpack.png" width=400/></p>
 <p style="text-align:right"><sub><sup>Farpoint 40 with a Daypack from Osprey</sup></sub></p>
+
+**Every day carry** can be placed in a lot of options. Shoulder bag, purse, sling bag, to name a few. Pick one to hold your every day items. If you want more options for style or utility, consider adding in a tote bag which are super lightweight.
+
+<p style="text-align:center"><img src="/assets/images/uniqlo-mini-bag.png" width=200/><img src="/assets/images/uniqlo-shoulder-bag.png" width=200/><img src="/assets/images/uniqlo-utility-bag.png" width=200/></p>
+<p style="text-align:right"><sub><sup>Various Bags from Uniqlo</sup></sub></p>
 
 ## How to Organize Hygiene Items?
 
@@ -164,46 +167,103 @@ This allows laundry to be done approximately once a week.
 <p style="text-align:center"><img src="/assets/images/items-to-pack.png" width=600/></p>
 <p style="text-align:right"><sub><sup>generated from chatGPT</sup></sub></p>
 
-Perhaps controversial, if you don't sweat a lot, it can be fine to wear the same clothes across 2 days which can extend your laundry needs to every 2 weeks.
+Perhaps controversial but if you don't sweat a lot, it can be fine to wear the same clothes across 2 days which can extend your laundry needs to every 2 weeks.
 
 `Laundry sucks.`
 
-## Essentials, Phone, and Money
+## Essential Items That You Should not Travel Without
 
 **Passport** to enter another country.
 
-**Sunscreen** to protect from ultraviolet. Remember to wear sunscreen when you're out especially midday when the UV levels are high.
-
-**Glasses** with a case or 20/20 vision.
+<p style="text-align:center"><img src="/assets/images/passport.jpg" height=200/></p>
+<p style="text-align:right"><sub><sup><a href="https://www.freepik.com/free-vector/vector-passports-with-map-isolated-white_10601286.htm">Image by macrovector on Freepik</a></sup></sub></p>
 
 **A phone** to access the internet and nagivate. Don't forget the charger.
 
+<p style="text-align:center"><img src="/assets/images/iphone-17.png" height=200/></p>
+<p style="text-align:right"><sub><sup>iPhone 17 from Apple</sup></sub></p>
+
 **Cellular data** can often be bought locally at a cheaper price than roaming plans or travel eSIMs. 
 
+<p style="text-align:center"><img src="/assets/images/5g-sim-cards.jpg" height=200/></p>
+<p style="text-align:right"><sub><sup><a href="https://www.freepik.com/free-photo/top-view-5g-sim-cards_11382707.htm">Image by freepik</a></sup></sub></p>
+
+**Sunscreen** to protect from ultraviolet. Remember to wear sunscreen when you're out especially midday when the UV levels are high.
+
+<p style="text-align:center"><img src="/assets/images/sunscreen.png" height=200/></p>
+<p style="text-align:right"><sub><sup>Sun Protect from Nivea</sup></sub></p>
+
+**Glasses** with a case or 20/20 vision.
+
+<p style="text-align:center"><img src="/assets/images/eyeglasses-wear.jpg" height=200/></p>
+<p style="text-align:right"><sub><sup><a href="https://www.freepik.com/free-photo/eyeglasses-wear_1028296.htm">Image by mrsiraphol on Freepik</a></sup></sub></p>
+
 **Credit card & bank card** to retrieve money from the ATM and pay.
+
+<p style="text-align:center"><img src="/assets/images/credit-card.jpg" height=200/></p>
+<p style="text-align:right"><sub><sup><a href="https://www.freepik.com/free-vector/realistic-credit-card-design_19058325.htm">Image by freepik</a></sup></sub></p>
 
 **Medication** can be bought at a pharmacy as needed.
 
 > pain killer, motion sickness, melatonin, digestion/lactose, anti-itch cream
 
-## Accessories and Entertainment
+<p style="text-align:center"><img src="/assets/images/medication.jpg" height=200/></p>
+<p style="text-align:right"><sub><sup><a href="https://www.freepik.com/free-vector/healthcare-medications-composition-with-images-pills-blisters-capsules-jars-drops-syrups-vector-illustration_26763674.htm">Image by macrovector on Freepik</a></sup></sub></p>
+
+
+## Accessories and Entertainment Items
+
+Auxilirary items that can be useful depending on situation and personal needs.
 
 **Outlet converter** for different countries with different outlets.
 
+<p style="text-align:center"><img src="/assets/images/power-outlets.jpg" height=200/></p>
+<p style="text-align:right"><sub><sup><a href="https://www.freepik.com/free-vector/multi-socket-ac-power-wall-mounted-outlet-3d-realistic-vector_4015096.htm">Image by vectorpocket on Freepik</a>
+</sup></sub></p>
+
 **Rainy days** calls for a poncho or an umbrella.
 
-**Beach days** slippers, towels, sunglasses.
+<p style="text-align:center"><img src="/assets/images/rainy-days.jpg" height=200/></p>
+<p style="text-align:right"><sub><sup><a href="https://www.freepik.com/free-vector/characters-people-holding-multimedia-icons-illustration_3046749.htm">Image by rawpixel.com on Freepik</a>
+</sup></sub></p>
 
-**Earphones** for music
+**Beach days** means slippers, swimsuit, a towel, and sunglasses.
 
-**Entertainment** options
+<p style="text-align:center"><img src="/assets/images/beach-days.jpg" height=200/></p>
+<p style="text-align:right"><sub><sup><a href="http://www.freepik.com">Designed by vectorpouch / Freepik</a></sup></sub></p>
+
+
+**Earphones** for music.
+
+<p style="text-align:center"><img src="/assets/images/iphone-17.png" height=200/></p>
+<p style="text-align:right"><sub><sup>Airpods Pro 3 from Apple</sup></sub></p>
+
+**Entertainment** options.
 
 > book, playing cards
 
-**carabiner** 
+<p style="text-align:center"><img src="/assets/images/entertainment.jpg" height=200/></p>
+<p style="text-align:right"><sub><sup><a href="https://www.freepik.com/free-vector/characters-people-holding-multimedia-icons-illustration_3046749.htm">Image by rawpixel.com on Freepik</a></sup></sub></p>
 
-**portable charger**
+
+<a href="https://www.freepik.com/free-vector/characters-people-holding-multimedia-icons-illustration_3046749.htm">Image by rawpixel.com on Freepik</a>
+
+
+**Carabiner** for clipping on your shoes or miscellaneous items to your bag.
+
+<p style="text-align:center"><img src="/assets/images/caribiner.png" height=200/></p>
+<p style="text-align:right"><sub><sup>Caribiner from Decathlon</sup></sub></p>
+
+**Water bottle** for drinking.
+
+<p style="text-align:center"><img src="/assets/images/hydroflask-water-bottle.png" height=200/></p>
+<p style="text-align:right"><sub><sup>18oz bottle from Hydro Flask</sup></sub></p>
+
+**portable charger** or if you carry a laptop, your laptop can double as a portable charger.
+
+<p style="text-align:center"><img src="/assets/images/anker-powerbank.png" height=200/></p>
+<p style="text-align:right"><sub><sup>MagGo Power Bank from Anker</sup></sub></p>
 
 **Simple as that!** That's everything you need for a backpacking trip. 
 
-Click here for a cheatsheet with all the above items mentioned above (not available yet).
+Click here for a cheatsheet with all the above items mentioned above *(not available yet)*.
