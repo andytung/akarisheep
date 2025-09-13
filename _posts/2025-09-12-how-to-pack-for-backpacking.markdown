@@ -17,10 +17,10 @@ Ready to embark on a travel backpacking trip but not sure what to bring? Prepari
 
 There's so many bags to choose from and each has their own use-case. I will compare 4 popular options that you might choose to use on your journey.
 
-`Budget airlines usually have a weight limit of 7-10 kg and a size limit of 56 x 36 x 23 cm for carry-on items. Check your airline and pack accordingly.`
+<p style="text-align:center"><img src="/assets/images/people-thinking.jpg" width=400/></p>
+<p style="text-align:right"><sub><sup><a href="https://www.freepik.com/free-vector/hand-drawn-people-asking-questions-illustration_13446903.htm">Image by Freepik</a></sup></sub></p>
 
-<p style="text-align:center"><img src="/assets/images/different-backpacks.png" width=600/></p>
-<p style="text-align:right"><sub><sup>generated from chatGPT</sup></sub></p>
+`Budget airlines usually have a weight limit of 7-10 kg and a size limit of 56 x 36 x 23 cm for carry-on items. Check your airline and pack accordingly.`
 
 **A duffel bag** is one of the lightest and cheapest options for a pack. Easy for shorter trips and light packers.
 
@@ -35,6 +35,7 @@ Best for:
 
 Note that:
 - can be uncomfortable to carry
+- only enough space for essentials
 - some are a duffel/travel pack hybrid which can offer more comfort
 
 **A travel backpack** is designed for the specific purpose of travelling. A lot of them will feature added comfort, a laptop compartment, and a open-shell design for easy access to items.
@@ -43,7 +44,7 @@ Note that:
 <p style="text-align:right"><sub><sup>GlobeRider45 from Matador</sup></sub></p>
 
 Best for:
-- carry around 40 to 45L
+- carry around 40L to 45L
 - 5 to 7 outfits
 - carrying a laptop
 - travel duration of less than 6 months
@@ -52,20 +53,20 @@ Note that:
 - can be a lot heavier and hard to keep under 7 kg.
 - can be not enough space for heavy packers.
 
-**A hiking backpack** is perfect for carrying comfort and long duration trips. Offers plenty of space for buying souvenirs, more clothes, and luxury accessories such as hair straightener, portable drip coffee, etc.
+**A hiking backpack** is perfect for carrying comfort and long duration trips. Offers plenty of space for buying souvenirs, extra clothes, and luxury accessories such as hair straightener, portable drip coffee, etc.
 
 <p style="text-align:center"><img src="/assets/images/hiking-bag.png" width=400/></p>
 <p style="text-align:right"><sub><sup>Atmos AG 65 from Osprey</sup></sub></p>
 
 Best for:
-- carrying around 50 to 65L
+- carrying around 50L to 65L
 - 8 to 12 outfits
-- can use for a backcountry hiking bag too
+- heavy packers that want to extra space
 - travel duration over 6 months
 
 Note that:
 - needs to be check during flight as they are over the carry-on limit
-- access to items can be difficult if tightly packed.
+- access to items can be difficult if everything is tightly packed.
 
 **Carry-on Suitcase** is back to the basics. Some backpackers will disagree, but this is a completely viable option and it just works.
 
@@ -84,6 +85,16 @@ Note that:
 
 ## More Than the Main Backpack
 
+While your main backpack carries everything you need to travel between locations, you can use a smaller pack once you arrive at a destination.
+
+<p style="text-align:center"><img src="/assets/images/different-backpacks.png" width=400/></p>
+<p style="text-align:right"><sub><sup>generated from chatGPT</sup></sub></p>
+
+**Every day carry** can be placed in a lot of options. Shoulder bag, purse, or sling bag to name a few. They all serve the same purpose so you will only need one. Add in a lightweight tote bag, if you want more options for style or utility. Avoid bags with heavy hardware.
+
+<p style="text-align:center"><img src="/assets/images/uniqlo-mini-bag.png" width=200/><img src="/assets/images/uniqlo-shoulder-bag.png" width=200/><img src="/assets/images/uniqlo-utility-bag.png" width=200/></p>
+<p style="text-align:right"><sub><sup>Various Bags from Uniqlo</sup></sub></p>
+
 **A day pack** is useful when you want to go to the beach or go on a 2 to 3 days trip while leaving your main backpack behind with the hotel/hostel or luggage check. A lightweight foldable one can be collapsed into the main bag when carrying less stuff. Around 20L is a good size. A dry bag is a nice option if a lot of day trips may involve getting wet while hiking or on a boat.
 
 <p style="text-align:center"><img src="/assets/images/ocean-pack-20.png" width=400/></p>
@@ -93,11 +104,6 @@ Note that:
 
 <p style="text-align:center"><img src="/assets/images/front-backpack.png" width=400/></p>
 <p style="text-align:right"><sub><sup>Farpoint 40 with a Daypack from Osprey</sup></sub></p>
-
-**Every day carry** can be placed in a lot of options. Shoulder bag, purse, sling bag, to name a few. Pick one to hold your every day items. If you want more options for style or utility, consider adding in a tote bag which are super lightweight.
-
-<p style="text-align:center"><img src="/assets/images/uniqlo-mini-bag.png" width=200/><img src="/assets/images/uniqlo-shoulder-bag.png" width=200/><img src="/assets/images/uniqlo-utility-bag.png" width=200/></p>
-<p style="text-align:right"><sub><sup>Various Bags from Uniqlo</sup></sub></p>
 
 ## How to Organize Hygiene Items?
 
@@ -171,14 +177,14 @@ Perhaps controversial but if you don't sweat a lot, it can be fine to wear the s
 
 `Laundry sucks.`
 
-## Essential Items That You Should not Travel Without
+## Essential Items That You Need
 
-**Passport** to enter another country.
+**Passport** to enter another country. Driver's license or any other form of **government issued ID**.
 
 <p style="text-align:center"><img src="/assets/images/passport.jpg" height=200/></p>
 <p style="text-align:right"><sub><sup><a href="https://www.freepik.com/free-vector/vector-passports-with-map-isolated-white_10601286.htm">Image by macrovector on Freepik</a></sup></sub></p>
 
-**A phone** to access the internet and nagivate. Don't forget the charger.
+**A phone** to access the internet and nagivate. Don't forget the **phone charger**. This is also your camera to capture moments during your adventure.
 
 <p style="text-align:center"><img src="/assets/images/iphone-17.png" height=200/></p>
 <p style="text-align:right"><sub><sup>iPhone 17 from Apple</sup></sub></p>
@@ -188,30 +194,30 @@ Perhaps controversial but if you don't sweat a lot, it can be fine to wear the s
 <p style="text-align:center"><img src="/assets/images/5g-sim-cards.jpg" height=200/></p>
 <p style="text-align:right"><sub><sup><a href="https://www.freepik.com/free-photo/top-view-5g-sim-cards_11382707.htm">Image by freepik</a></sup></sub></p>
 
-**Sunscreen** to protect from ultraviolet. Remember to wear sunscreen when you're out especially midday when the UV levels are high.
+**Credit card & bank card** to retrieve money from the ATM and pay. A **wallet** in the form of a card holder or coin pouch.
 
-<p style="text-align:center"><img src="/assets/images/sunscreen.png" height=200/></p>
-<p style="text-align:right"><sub><sup>Sun Protect from Nivea</sup></sub></p>
+<p style="text-align:center"><img src="/assets/images/credit-card.jpg" height=200/></p>
+<p style="text-align:right"><sub><sup><a href="https://www.freepik.com/free-vector/realistic-credit-card-design_19058325.htm">Image by freepik</a></sup></sub></p>
 
 **Glasses** with a case or 20/20 vision.
 
 <p style="text-align:center"><img src="/assets/images/eyeglasses-wear.jpg" height=200/></p>
 <p style="text-align:right"><sub><sup><a href="https://www.freepik.com/free-photo/eyeglasses-wear_1028296.htm">Image by mrsiraphol on Freepik</a></sup></sub></p>
 
-**Credit card & bank card** to retrieve money from the ATM and pay.
+**Sunscreen** to protect from ultraviolet. Remember to wear sunscreen when you're out especially midday when the UV levels are high.
 
-<p style="text-align:center"><img src="/assets/images/credit-card.jpg" height=200/></p>
-<p style="text-align:right"><sub><sup><a href="https://www.freepik.com/free-vector/realistic-credit-card-design_19058325.htm">Image by freepik</a></sup></sub></p>
+<p style="text-align:center"><img src="/assets/images/sunscreen.png" height=200/></p>
+<p style="text-align:right"><sub><sup>Sun Protect from Nivea</sup></sub></p>
 
 **Medication** can be bought at a pharmacy as needed.
 
-> pain killer, motion sickness, melatonin, digestion/lactose, anti-itch cream
+> pain killer, motion sickness, melatonin, digestion/lactose, anti-itch cream, eye drop
 
 <p style="text-align:center"><img src="/assets/images/medication.jpg" height=200/></p>
 <p style="text-align:right"><sub><sup><a href="https://www.freepik.com/free-vector/healthcare-medications-composition-with-images-pills-blisters-capsules-jars-drops-syrups-vector-illustration_26763674.htm">Image by macrovector on Freepik</a></sup></sub></p>
 
 
-## Accessories and Entertainment Items
+## Accessories, Entertainment, and Situational Items
 
 Auxilirary items that can be useful depending on situation and personal needs.
 
@@ -230,12 +236,12 @@ Auxilirary items that can be useful depending on situation and personal needs.
 **Beach days** means slippers, swimsuit, a towel, and sunglasses.
 
 <p style="text-align:center"><img src="/assets/images/beach-days.jpg" height=200/></p>
-<p style="text-align:right"><sub><sup><a href="http://www.freepik.com">Designed by vectorpouch / Freepik</a></sup></sub></p>
+<p style="text-align:right"><sub><sup><a href="http://www.freepik.com">Designed by vectorpouch on Freepik</a></sup></sub></p>
 
 
 **Earphones** for music.
 
-<p style="text-align:center"><img src="/assets/images/iphone-17.png" height=200/></p>
+<p style="text-align:center"><img src="/assets/images/airpods-pro-3.png" height=200/></p>
 <p style="text-align:right"><sub><sup>Airpods Pro 3 from Apple</sup></sub></p>
 
 **Entertainment** options.
@@ -244,10 +250,6 @@ Auxilirary items that can be useful depending on situation and personal needs.
 
 <p style="text-align:center"><img src="/assets/images/entertainment.jpg" height=200/></p>
 <p style="text-align:right"><sub><sup><a href="https://www.freepik.com/free-vector/characters-people-holding-multimedia-icons-illustration_3046749.htm">Image by rawpixel.com on Freepik</a></sup></sub></p>
-
-
-<a href="https://www.freepik.com/free-vector/characters-people-holding-multimedia-icons-illustration_3046749.htm">Image by rawpixel.com on Freepik</a>
-
 
 **Carabiner** for clipping on your shoes or miscellaneous items to your bag.
 
@@ -259,10 +261,32 @@ Auxilirary items that can be useful depending on situation and personal needs.
 <p style="text-align:center"><img src="/assets/images/hydroflask-water-bottle.png" height=200/></p>
 <p style="text-align:right"><sub><sup>18oz bottle from Hydro Flask</sup></sub></p>
 
-**portable charger** or if you carry a laptop, your laptop can double as a portable charger.
+**Portable charger** when you run out of battery during long trips.
 
 <p style="text-align:center"><img src="/assets/images/anker-powerbank.png" height=200/></p>
 <p style="text-align:right"><sub><sup>MagGo Power Bank from Anker</sup></sub></p>
+
+## Luxury Items You Should Think Twice Before Bringing
+
+**A laptop**
+
+<p style="text-align:center"><img src="/assets/images/macbook-air.png" height=200/></p>
+<p style="text-align:right"><sub><sup>Macbook Air from Apple</sup></sub></p>
+
+**A camera** 
+
+<p style="text-align:center"><img src="/assets/images/sony-zv-1f.png" height=200/></p>
+<p style="text-align:right"><sub><sup>zv-1f from Sony</sup></sub></p>
+
+**International Driver's Permit**
+
+<p style="text-align:center"><img src="/assets/images/personal-id.jpg" height=200/></p>
+<p style="text-align:right"><sub><sup><a href="https://www.freepik.com/free-vector/id-document-personal_136480941.htm#fromView=search&page=1&position=1&uuid=393c7b6e-7585-4006-8c8b-400dcaefac35&query=driver+license">Image by studiogstock on Freepik</a></sup></sub></p>
+
+**Other electronics** 
+
+<p style="text-align:center"><img src="/assets/images/various-electronics.jpg" height=200/></p>
+<p style="text-align:right"><sub><sup><a href="https://www.freepik.com/free-vector/modern-devices-isometric-icons-collection-with-sixteen-isolated-images-computers-periphereals-various-consumer-electronics-illustration_6869959.htm#fromView=search&page=1&position=6&uuid=f3363986-96ea-44a1-aefd-92f86874347b&query=electronics">Image by macrovector on Freepik</a></sup></sub></p>
 
 **Simple as that!** That's everything you need for a backpacking trip. 
 
